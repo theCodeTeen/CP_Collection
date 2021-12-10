@@ -1,0 +1,26 @@
+CakeWalk 
+
+Given a string containing only lower case letters ,print first occurrence of all the letters present in that order only.
+
+Input:
+The first line will contain an integer T denoting the total number of Testcases. Then the test cases follow.
+
+Each test case contains a single line of input, containing a string S.
+
+Output :
+Desired Output
+
+Constraint :
+|S|<=200
+
+Sample Input
+2
+
+aasdvasvavda
+
+sajhags
+
+Sample Output
+asdv
+
+sajhg

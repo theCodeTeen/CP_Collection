@@ -1,0 +1,23 @@
+Find Triangles 
+
+Students in the class are making noise. So, the teacher assigned a task to the students. The task is as follows: There are 2 non intersecting lines. First line has M points and second line has N points on them. Find the number of triangles formed by the points on those two lines. (Only find triangles formed by the points on the given lines i.e., all the vertices of triangles must be points on those two lines.)
+
+Input:
+-First line is the number of testcases T. -Next T lines contains no. of points on the two lines M and N seperated by white space.
+
+Output:
+-Number of triangles formed in each testcase seperated by line break.
+
+Constraints
+1≤T≤100
+0≤M≤1000
+0≤N≤1000
+Sample Input:
+3
+2 4
+4 1
+1 4
+Sample Output:
+16
+6
+6

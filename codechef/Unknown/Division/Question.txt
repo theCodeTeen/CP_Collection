@@ -1,0 +1,29 @@
+Division 
+
+Chef is Hosting his second contest in Vignan College. He want all the Coders to find the sum of two numbers. In his point of view sum of two numbers is different from what you expect. This number can be obtained by doing an operation. Operation include division of two numbers in the decimal representation of the number A/B . Chef did'nt sastisfied with this so he gave a Number K. So your task is to find the sum of K numbers(1−K) after performing the operation.
+
+Input:
+First line will contains a single integer T denoting the number of testcases. Then the testcases follow. The first line of each testcase contains a single integer K denoting the number of digits after the decimal point of which you have to find the sum of. The second line of each testcase contains two space-separated integers A,B.
+
+Output:
+For each testcase, output in a single line, the sum of K digits after the decimal point in the decimal representation of the number A/B.
+
+Constraints
+1≤T≤100
+
+1≤K≤500
+
+1≤A,B≤1000
+
+Sample Input:
+1
+
+6
+
+10 7
+
+Sample Output:
+27
+
+EXPLANATION:
+The value of 10/7 up to the 6th decimal place is 1.428571. Thus the sum of the first 6 digits after the decimal point is 4 + 2 + 8 + 5 + 7 + 1 = 27.
